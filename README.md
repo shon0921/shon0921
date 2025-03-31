@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ### Skills
 <a href="https://github.com/shon0921">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=c,java,python,&perline=4" /> 
 </div>
 </a>
 
