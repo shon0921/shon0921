@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### learn 
 <a href="https://github.com/shon0921">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,js,docker,dart,kubernetes,nodejs,r&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=html,css,js,docker,dart,kubernetes,vue,r&perline=4" /> 
 </div>
 </a>
  </td><td valign="top" width="25%">
