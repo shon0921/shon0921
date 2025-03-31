@@ -1,5 +1,5 @@
 ## Hi there 👋
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=shon0921%20github%80&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=shon0921%20github%20&fontAlign=80&fontAlignY=40&color=gradient)
 
 **shon0921/shon0921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
