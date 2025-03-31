@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&reversal=true&height=300&section=header&text=capsule%20render&desc=&textBg=true&fontSize=90&fontColor=ffee00&animation=fadeIn)
+![header](<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=ㅁㅁ&fontSize=90" />)
 
 **shon0921/shon0921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
