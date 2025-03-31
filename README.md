@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ### Others
 <a href="https://github.com/shon0921">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,discord,vscodeqt&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,discord,vimqt&perline=4" /> 
 </div>
 </a>
 </td>
