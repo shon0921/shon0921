@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <table><tr><td valign="top" width="25%">
 
 ### Frontend  
-<a href="https://github.com/tayyabadev">
+<a href="https://github.com/shon0921">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js&perline=4" /> 
 </div>
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  </td><td valign="top" width="25%">
         
 ### Languages
-<a href="https://github.com/tayyabadev">
+<a href="https://github.com/shon0921">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python,&perline=4" /> 
 </div>
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 </td><td valign="top" width="25%">
   
 ### Others
-<a href="https://github.com/tayyabadev">
+<a href="https://github.com/shon0921">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=git,github,npm,figma,vscode,vercel,discord,vscodeqt&perline=4" /> 
 </div>
