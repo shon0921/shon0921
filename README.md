@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shon0921&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=shon0921&show_icons=true"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shon0921&layout=compact"><img src="https://github-readme-stats.vercel.app/api?username=shon0921&show_icons=true"><br>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shon0921)](https://solved.ac/shon0921)
