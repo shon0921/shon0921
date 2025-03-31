@@ -5,6 +5,9 @@
 I am a second-year university student at Korea Polytechnics I Seoul Gangseo Campus. 
 
 
+I am generally interested in programming.
+
+
 Currently, I am studying how to create programs using Spring Boot with NoSQL.
 
 ## Skill Set:
