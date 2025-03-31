@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <table><tr><td valign="top" width="25%">
 
-### Frontend  
+### learn 
 <a href="https://github.com/shon0921">
 <div align="center">  
        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js&perline=4" /> 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </a>
  </td><td valign="top" width="25%">
         
-### Languages
+### Skills
 <a href="https://github.com/shon0921">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=c,js,cpp,java,python,&perline=4" /> 
@@ -49,4 +49,6 @@ Here are some ideas to get you started:
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shon0921)](https://solved.ac/shon0921)
+
+## Certifications
 
