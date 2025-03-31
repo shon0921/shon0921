@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### learn 
 <a href="https://github.com/shon0921">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=html,css,js,docker,dart,kubernetes,vue,r,mongodb,jquery&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=html,css,js,docker,dart,kubernetes,vue,r,mongodb&perline=4" /> 
 </div>
 </a>
  </td><td valign="top" width="25%">
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ### Others
 <a href="https://github.com/shon0921">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=git,github,npm,figma,discord,vim&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=git,github,figma,discord,vim&perline=4" /> 
 </div>
 </a>
 </td>
