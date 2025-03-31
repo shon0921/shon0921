@@ -1,6 +1,5 @@
 ## Hi there 👋
-<img 
-src="https://capsule-render.vercel.app/api? //이 물음표 뒤에 붙는 인자들을 바꿔주면 된다.
+![header](https://capsule-render.vercel.app/api? //이 물음표 뒤에 붙는 인자들을 바꿔주면 된다.
 type=wave	//헤더의 모양이다.
 &color=auto	//헤더의 색을 어떻게 할건지 
 &reversal=true //default=false, 색의 방향을 바꿔줌 (gradient일 경우)
@@ -11,8 +10,8 @@ type=wave	//헤더의 모양이다.
 &textBg=true	//메인 텍스트의 배경화면
 &fontSize=90 	//헤더의 폰트사이즈
 &fontColor=ffee00  //폰트 컬러 : hexa값으로 적어두되, #은 뺄것!
-&animation=fadeIn" //애니메이션 효과
-/>
+&animation=fadeIn) //애니메이션 효과
+
 
 **shon0921/shon0921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
