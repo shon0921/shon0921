@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a second-year university student at Korea Polytechnics I Seoul Gangseo Campus. 
+My real name is Hae-sung Shon, and I am a second-year university student at Korea Polytechnics I Seoul Gangseo Campus.
 
 
 I am generally interested in programming.
